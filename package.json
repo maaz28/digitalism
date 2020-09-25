@@ -2,6 +2,9 @@
   "name": "digitalism",
   "version": "0.1.0",
   "private": true,
+    "engines": {
+    "node": "10.x"
+  },
   "dependencies": {
     "@tensorflow/tfjs": "^0.14.1",
     "bulma": "^0.7.2",
